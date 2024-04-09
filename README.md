@@ -15,5 +15,5 @@ We used OpenAI's GPT-4 API with RAG for error detection, and sentence correction
 
 ## 📊Pipeline
 
-![image](https://github.com/swati-rajwal/EM_Mixers_MEDIQA-CORR-NAACL-ClinicalNLP-2024/assets/145946818/38e99217-7fb5-42d0-a767-a2674c56fa18)
+![image](https://github.com/swati-rajwal/EM_Mixers_MEDIQA-CORR-NAACL-ClinicalNLP-2024/assets/145946818/9a8904c8-995a-4c1a-91f8-65ac80450e98)
 
