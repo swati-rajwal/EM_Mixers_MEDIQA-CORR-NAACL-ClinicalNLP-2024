@@ -22,7 +22,7 @@ We used OpenAI's GPT-4 API with RAG for error detection and sentence correction.
 @inproceedings{
 anonymous2024emmixers,
 title={{EM}\_Mixers at {MEDIQA}-{CORR} 2024: Knowledge-Enhanced Few-Shot In-Context Learning for Medical Error Detection \& Correction},
-author={Anonymous},
+author={Swati Rajwal, Eugene Agichtein, Abeed Sarker},
 booktitle={The 6th Clinical Natural Language Processing Workshop},
 year={2024},
 url={https://openreview.net/forum?id=ygrXEObZLD}
