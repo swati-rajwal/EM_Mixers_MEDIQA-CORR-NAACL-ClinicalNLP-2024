@@ -1,5 +1,4 @@
-# EM_Mixers_MEDIQA-CORR-NAACL-ClinicalNLP-2024
-Code submission for the MEDIQA-CORR @ NAACL-ClinicalNLP 2024 Shared Task by Team EM_Mixers
+# Knowledge-Enhanced Few-Shot In-Context Learning for Medical Error Detection & CorrectionCode submission for the MEDIQA-CORR @ NAACL-ClinicalNLP 2024 Shared Task by Team EM_Mixers
 
 ## 🎯Objective
 In this task, we seek to address the problem of identifying and correcting (common sense) medical errors in clinical notes. From a human perspective, these errors require medical expertise and knowledge to be both identified and corrected. 
